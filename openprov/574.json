@@ -1,0 +1,1 @@
+{"prefix": {"orangeWidget": "https://orange.biolab.si/toolbox/"}, "entity": {"orangeWidget:__main__.OWLogisticRegression": {"orangeWidget:description": "The logistic regression classification algorithm with LASSO (L1) or ridge (L2) regularization.", "orangeWidget:widget id": "__main__", "orangeWidget:name": "Logistic Regression"}}}

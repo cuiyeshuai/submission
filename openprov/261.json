@@ -1,0 +1,1 @@
+{"prefix": {"ex": "http://example.org/", "_": "http://example3.org/", "ex2": "http://example2.org/"}, "hadMember": {"_:id1": {"prov:entity": "ex:e2", "prov:collection": "ex:c"}, "_:id2": {"prov:entity": "ex:e3", "prov:collection": "ex:c"}, "_:id3": {"prov:entity": "ex:e1", "prov:collection": "ex:c"}}}

@@ -1,0 +1,1 @@
+{"prefix": {"orangeWidget": "https://orange.biolab.si/toolbox/"}, "entity": {"orangeWidget:__main__.OWFile": {"orangeWidget:": ["File", "orange.widgets.data.file", "Read data from an input file or network and send a data table to the output."]}}}

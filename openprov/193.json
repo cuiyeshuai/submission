@@ -1,0 +1,1 @@
+{"prefix": {"hdf2": "http://www.provbook.org/hdf2array/"}, "entity": {"hdf2:data": {}, "hdf2:filename": {}}, "used": {"_:id1": {"prov:activity": "hdf2:read", "prov:entity": "hdf2:filename"}}, "activity": {"hdf2:read": {}}, "wasGeneratedBy": {"_:id2": {"prov:activity": "hdf2:read", "prov:entity": "hdf2:data"}}}

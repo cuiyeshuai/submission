@@ -1,0 +1,1 @@
+{"prefix": {"orangeWidget": "https://orange.biolab.si/toolbox/"}, "activity": {"orangeWidget:__main__.OWPredictions": {"orangeWidget:description": "Display the predictions of models for an input dataset.", "orangeWidget:widget_id": "__main__", "orangeWidget:name": "Predictions", "prov:type": "activities involved in the workflow", "prov:startTime": "2019-02-24T10:35:46.491275"}}}

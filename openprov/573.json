@@ -1,0 +1,1 @@
+{"prefix": {"orangeWidget": "https://orange.biolab.si/toolbox/"}, "activity": {"orangeWidget:__main__.OWPreprocess": {"orangeWidget:description": "Construct a data preprocessing pipeline.", "orangeWidget:widget_id": "__main__", "orangeWidget:name": "Preprocess", "prov:type": "activities involved in the workflow", "prov:startTime": "2019-02-24T10:29:46.840559"}}}
