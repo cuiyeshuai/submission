@@ -137,7 +137,7 @@ def document_to_encoding(x: ProvDocument, iri, forward):
     return output
 
 
-def json_to_encoding(x: str, iri, forward, qualified_name):
+def json_to_encoding(x: str, iri, forward, qualified_names):
     output = ({}, {})  # (contents, relations)
     file = json.decoder.JSONDecoder().decode(x)
     if "prefix" in file:
@@ -160,11 +160,11 @@ def json_to_encoding(x: str, iri, forward, qualified_name):
                     if "prov:type" in content:
                         if isinstance(content.get("prov:type"), dict):
                             content["prov:type"] = [content["prov:type"]] # make it a list
-                        specific_labels = frozenset([assert_type.get("$") if type(assert_type) is dict and assert_type.get("type") in qualified_name 
-                            else None for assert_type in content["prov:type"]])
+                        specific_labels = frozenset([assert_type.get("$") for assert_type in content["prov:type"] 
+                            if type(assert_type) is dict and assert_type.get("type") in qualified_names])
                         if iri:
                             specific_labels = frozenset([prefix[label.split(":", 1)[0]] + label.split(":", 1)[1]
-                                        if label.split(":", 1)[0] in prefix else None for label in specific_labels])
+                                for label in specific_labels if label.split(":", 1)[0] in prefix])
                     output[0][rec_id] = (rec_type, specific_labels)
                 else:
                     relation = RELATION_MAP.get(rec_type)
@@ -174,8 +174,8 @@ def json_to_encoding(x: str, iri, forward, qualified_name):
                     if "prov:type" in content:
                         if isinstance(content.get("prov:type"), dict):
                             content["prov:type"] = [content["prov:type"]]
-                        specific_labels = frozenset([assert_type.get("$") if type(assert_type) is dict and assert_type.get("type") in qualified_name 
-                            else None for assert_type in content["prov:type"]])
+                        specific_labels = frozenset([assert_type.get("$") for assert_type in content["prov:type"]
+                            if type(assert_type) is dict and assert_type.get("type") in qualified_names])
                     if None in edge:
                         if rec_type == PROV_DERIVATION:
                             if "prov:Revision" or "prov:Quotation" or "prov:PrimarySource" in specific_labels:
@@ -186,7 +186,7 @@ def json_to_encoding(x: str, iri, forward, qualified_name):
                         continue
                     if iri:
                         specific_labels = frozenset([prefix[label.split(":", 1)[0]] + label.split(":", 1)[1]
-                                    if label.split(":", 1)[0] in prefix else None for label in specific_labels])
+                            for label in specific_labels if label.split(":", 1)[0] in prefix])
                     res = (rec_type, specific_labels)
                     if forward:
                         if output[1].get(edge[0]) == None:  # if start_node is not already in relations
@@ -199,3 +199,81 @@ def json_to_encoding(x: str, iri, forward, qualified_name):
                         else:
                             output[1][edge[1]].append((edge[0], res))
     return output
+
+def type_generate(x, level, specific_labels_node, specific_labels_edge):
+    zero_types = {}
+    for node in x[0]:
+        zero_types[node] = frozenset((x[0][node],)) if specific_labels_node else frozenset((x[0][node][0],))
+    prov_types = {} # prov_types up to level h
+    for i in range(level + 1):
+        prov_types[i] = {}
+    prov_types[0] = {node: (zero_types[node],) for node in zero_types}
+    for i in range(1, level+1):
+        for source in x[1]: #iterate through all edges
+            for destination, edge_type in x[1][source]:
+                if destination in prov_types[i-1]: #if the destination is in the previous level
+                    if prov_types[i].get(source) is None:
+                        prov_types[i][source] = ((frozenset((edge_type,)),) if specific_labels_edge 
+                            else (frozenset((edge_type[0],)),)) + prov_types[i-1][destination] 
+                    else: 
+                        prov_types[i][source] = tuple(m|n for m, n in zip(prov_types[i][source], ((frozenset((edge_type,)),) 
+                            if specific_labels_edge else (frozenset((edge_type[0],)),)) + prov_types[i-1][destination])) 
+    return prov_types
+
+def type_generate_mixed(x, level, specific_labels_node, specific_labels_edge):
+    zero_types = {}
+    for node in x[0]:
+        zero_types[node] = frozenset(x[0][node]) if specific_labels_node else frozenset((x[0][node][0],))
+    prov_types = {} # prov_types up to level h
+    for i in range(level + 1):
+        prov_types[i] = {}
+    prov_types[0] = {node: (zero_types[node],) for node in zero_types}
+    for i in range(1, level+1):
+        for source in x[1]: #iterate through all edges
+            for destination, edge_type in x[1][source]:
+                if destination in prov_types[i-1]: #if the destination is in the previous level
+                    if prov_types[i].get(source) is None:
+                        prov_types[i][source] = ((frozenset(edge_type),) 
+                            if specific_labels_edge else (frozenset((edge_type[0],)),)) + prov_types[i-1][destination] 
+                    else: 
+                        prov_types[i][source] = tuple(m|n for m, n in zip(prov_types[i][source], ((frozenset(edge_type),) 
+                            if specific_labels_edge else (frozenset((edge_type[0],)),)) + prov_types[i-1][destination])) 
+    return prov_types
+
+def type_generate_R(x, level, specific_labels_node, specific_labels_edge):
+    zero_types = {}
+    for node in x[0]:
+        zero_types[node] = frozenset((x[0][node],)) if specific_labels_node else frozenset((x[0][node][0],))
+    prov_types = {} # prov_types up to level h
+    for i in range(level + 1):
+        prov_types[i] = {}
+    prov_types[0] = {node: (zero_types[node],) for node in zero_types}
+    for i in range(1, level+1):
+        for destination in prov_types[i-1]: # All nodes with prov_types of level i-1
+            if destination in x[1]: # if the node is the destination of any edge
+                for source, edge_type in x[1][destination]:
+                    if prov_types[i].get(source) is None:
+                        prov_types[i][source] = ((frozenset((edge_type,)),) if specific_labels_edge 
+                            else (frozenset((edge_type[0],)),)) + prov_types[i-1][destination] 
+                    else: 
+                        prov_types[i][source] = tuple(m|n for m, n in zip(prov_types[i][source], ((frozenset((edge_type,)),) 
+                            if specific_labels_edge else (frozenset((edge_type[0],)),)) + prov_types[i-1][destination])) 
+    return prov_types
+
+def count_prov_types(level, prov_types):
+    res = dict()  # Dict[prov_type, occurence]
+    for h in range(level + 1):
+        res.update(dict(Counter(prov_types[h].values())))
+    return res
+
+def sparse_matrix(x, len_types, index_map):
+    res = [0] * len_types
+    for key in x:
+        res[index_map[key]] = x[key]
+    return res
+
+# if Reverse is true then output will be features with most positive contribution
+def most_important_features(x, reverse_index_map, reverse=True):
+    feature_weight = [(x[i],i) for i in range(len(x))]
+    feature_weight.sort(reverse=reverse)
+    return [(reverse_index_map[i[1]], i[0]) for i in feature_weight]
