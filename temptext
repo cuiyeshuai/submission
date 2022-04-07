@@ -1,512 +1,141 @@
-Archive:  /dbfs/FileStore/shared_uploads/CM_Buildings.zip
-   creating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/._CM-Buildings  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building12321.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building12321.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building24877.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building24877.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6247.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6247.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building24096.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building24096.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6811.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6811.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7635.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7635.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building20201.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building20201.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building21067.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building21067.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6257.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6257.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building23821.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building23821.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building12221.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building12221.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7625.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7625.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1032.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1032.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building21167.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building21167.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4272.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4272.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3234.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3234.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building18059.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building18059.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building13867.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building13867.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3218.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3218.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6155.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6155.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building25808.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building25808.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building23685.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building23685.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7333.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7333.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building31979.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building31979.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3224.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3224.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4262.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4262.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building23695.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building23695.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7233.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7233.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3318.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3318.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3152.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3152.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building9487.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building9487.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1732.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1732.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3996.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3996.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4114.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4114.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building16526.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building16526.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5064.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5064.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4202.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4202.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5735.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5735.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19215.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building19215.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building21383.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building21383.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building18073.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building18073.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2947.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2947.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1722.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1722.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3896.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3896.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4104.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4104.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3142.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3142.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19315.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building19315.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building21393.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building21393.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2847.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2847.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5164.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5164.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building18257.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building18257.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building31192.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building31192.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4302.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4302.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5635.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5635.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6121.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6121.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building31804.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building31804.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building10727.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building10727.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building10076.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building10076.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3534.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3534.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building23330.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building23330.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2375.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2375.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building23461.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building23461.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7553.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7553.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building10627.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building10627.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6131.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6131.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6779.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6779.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2365.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2365.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3434.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3434.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7543.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7543.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3872.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3872.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building24464.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building24464.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building21242.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building21242.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3206.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3206.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2731.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2731.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building23422.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building23422.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4834.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4834.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5943.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5943.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building8134.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building8134.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building18386.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building18386.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building11795.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building11795.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building17936.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building17936.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4992.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4992.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building35217.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building35217.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2599.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2599.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4824.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4824.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building25916.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building25916.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building8124.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building8124.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5843.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5843.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3862.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3862.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3306.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3306.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2631.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2631.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4892.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4892.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2589.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2589.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building10115.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building10115.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4530.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4530.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building21417.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building21417.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6801.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6801.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building23277.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building23277.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1847.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1847.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4680.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4680.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building8619.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building8619.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building23267.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building23267.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building18110.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building18110.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1857.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1857.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building24234.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building24234.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4430.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4430.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6811.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6811.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building21407.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building21407.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building25052.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building25052.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building24565.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building24565.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building35452.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building35452.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4690.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4690.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7401.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7401.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5194.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5194.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5975.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5975.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building10739.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building10739.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building8463.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building8463.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2933.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2933.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6381.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6381.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building9605.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building9605.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building10068.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building10068.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5184.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5184.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7501.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7501.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building9884.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building9884.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2923.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2923.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building10639.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building10639.0.json  
+from pyrsistent import T
 
-*** WARNING: skipped 382096 bytes of output ***
 
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6145.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5779.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5779.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building17938.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building17938.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6413.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6413.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7119.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7119.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3508.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3508.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5044.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5044.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building35106.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building35106.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19317.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building19317.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3470.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3470.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1210.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1210.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building12231.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building12231.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4436.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4436.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6801.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6801.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5054.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5054.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building9954.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building9954.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building20211.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building20211.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19278.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building19278.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3518.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3518.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1200.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1200.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building12331.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building12331.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4426.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4426.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19307.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building19307.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3460.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3460.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4628.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4628.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5322.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5322.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building34879.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building34879.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building20954.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building20954.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3424.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3424.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4750.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4750.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1176.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1176.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building10637.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building10637.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building36037.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building36037.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3716.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3716.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building23320.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building23320.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3524.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3524.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4638.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4638.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5332.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5332.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3706.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3706.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4740.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4740.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building10066.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building10066.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building10737.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building10737.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1166.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1166.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2857.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2857.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19305.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building19305.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5577.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5577.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5625.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5625.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4312.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4312.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7317.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7317.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2531.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2531.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5174.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5174.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3886.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3886.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building11591.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building11591.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building9496.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building9496.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2449.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2449.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5725.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5725.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building24416.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building24416.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4212.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4212.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7307.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7307.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5074.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5074.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2521.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2521.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2957.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2957.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5567.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5567.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19205.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building19205.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2459.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2459.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6775.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6775.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3986.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3986.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4532.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4532.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4986.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4986.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7375.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7375.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building18234.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building18234.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building8086.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building8086.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2553.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2553.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building31868.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building31868.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19274.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building19274.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building22903.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building22903.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1639.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1639.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building18112.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building18112.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1629.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1629.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4432.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4432.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4996.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4996.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building762.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building762.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building7365.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building7365.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building24567.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building24567.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building8096.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building8096.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2543.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2543.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building17936.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building17936.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building21298.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building21298.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building31770.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building31770.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building20936.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building20936.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2733.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2733.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3204.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3204.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2306.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2306.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building6149.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building6149.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5340.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5340.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building11797.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building11797.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5941.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5941.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building17934.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building17934.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3774.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3774.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19013.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building19013.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4732.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4732.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4990.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4990.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5238.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5238.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building25914.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building25914.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5841.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5841.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5350.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5350.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building18856.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building18856.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2316.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2316.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2633.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2633.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3304.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3304.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4890.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4890.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building31965.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building31965.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4722.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4722.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5228.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5228.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building1104.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building1104.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building3764.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building3764.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5026.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5026.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5078.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5078.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building9926.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building9926.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building5729.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building5729.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building26685.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building26685.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19209.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building19209.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building2881.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building2881.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building12411.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building12411.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building4454.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building4454.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building18589.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building18589.0.json  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building24804.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/__MACOSX/CM-Buildings/._Building24804.0.provn  
-  inflating: /dbfs/FileStore/shared_uploads/CM_Buildings/CM-Buildings/Building19375.0.provn  
+PG-D 
+0 [0.6446474282822394, 57.24963998794556, 0.5945858852653709, 81.15801095962524]
+[0.6444475021056495, 48.81955409049988, 0.5940803740132508, 78.79588484764099]
+[0.5214375318962715, 47.43671679496765, 0.345534008829806, 77.76545190811157]
+[0.5131078687177113, 45.90959119796753, 0.3504391002629231, 81.94633722305298]
+1 [0.7797645522340579, 56.973838090896606, 0.6920648676729972, 81.60352396965027]
+[0.7756752830006756, 50.87278985977173, 0.669184315955433, 78.34264922142029]
+[0.6395871728046676, 49.33258390426636, 0.5361080210083924, 82.42859029769897]
+[0.6358061153130725, 50.22596883773804, 0.5702236692769225, 79.90761184692383]
+2 [0.8010455786238381, 53.56263613700867, 0.6653027644308133, 81.50905513763428]
+[0.7910590798700292, 52.99131107330322, 0.6839194196965618, 81.07649421691895]
+[0.6015800078001315, 49.15915012359619, 0.5447742369017559, 76.40519309043884]
+[0.6274613125107538, 51.56274080276489, 0.5644095414545567, 80.57039904594421]
+3 [0.7911066512024008, 66.12570691108704, 0.665832396941845, 93.14056611061096]
+[0.7808750660090474, 60.46360182762146, 0.66291435999696, 94.08783316612244]
+[0.6547641188014115, 54.33331084251404, 0.5437020950495245, 80.24883985519409]
+[0.6433013595329694, 52.49366569519043, 0.5562854279860809, 81.61052894592285]
+4 [0.773461173803722, 69.38149571418762, 0.6617217489499436, 109.10824489593506]
+[0.7816720252458801, 79.10729002952576, 0.6754447667875166, 110.16834473609924]
+[0.7191387996601157, 55.352975845336914, 0.6575696098405927, 85.08831477165222]
+[0.7266864667978792, 54.05141496658325, 0.6225709739586778, 79.02866506576538]
+5 [0.7976223064513339, 72.53595018386841, 0.6868602507400244, 111.5120849609375]
+[0.7746629910173655, 71.06757402420044, 0.6463457698994586, 107.7711501121521]
+[0.7647677792764849, 56.54184079170227, 0.6795446731407532, 83.92151999473572]
+[0.7651733442432527, 53.55194616317749, 0.6482510330898631, 75.35268568992615]
+6 [0.7904601259130339, 90.04625296592712, 0.6969276359029785, 121.18484234809875]
+[0.7833940033482877, 81.2672061920166, 0.7065930791538519, 116.90145516395569]
+[0.7610900174337754, 60.64286684989929, 0.6333901425787585, 87.29447293281555]
+[0.7645133990269182, 59.47990298271179, 0.6650280597505058, 85.32249999046326]
+
+
+PG-T
+0[0.8501162681305705, 50.21173810958862, 0.797582322090112, 76.13891220092773]
+[0.8505946251714576, 43.94694519042969, 0.7881504217056918, 73.56176114082336]
+[0.6924977447980176, 43.43134522438049, 0.6531811971969884, 74.40085887908936]
+[0.6901955282953376, 42.87982797622681, 0.6573956179369882, 72.93360495567322]
+[0.7218707281672597, 43.186919927597046, 0.6718968955056311, 73.18912482261658]
+1 [0.8569907601002901, 52.84951710700989, 0.8381819106232471, 80.70960998535156]
+[0.848727221224741, 44.16155481338501, 0.8441542594642792, 75.34181213378906]
+[0.7188892306249753, 44.05465292930603, 0.6637900843862388, 69.56083512306213]
+[0.7063942845987331, 42.51907396316528, 0.6516510842557551, 71.04817986488342]
+2 [0.8436803518314195, 43.56984996795654, 0.8436611220732074, 76.42151713371277]
+[0.8495146697049268, 43.66143202781677, 0.837543400548464, 76.93075203895569]
+[0.698785153736515, 51.86244487762451, 0.6266891870335038, 74.13770818710327]
+[0.6961430556625854, 42.85224914550781, 0.6245259364948776, 72.3737940788269]
+3 [0.8515280340521568, 45.84507489204407, 0.8428015404489106, 78.48816585540771]
+[0.8480083998586323, 45.15172505378723, 0.8359138634073323, 81.34390497207642]
+[0.6793632318212143, 47.17842197418213, 0.6333570400449383, 73.85026717185974]
+[0.6733725650591312, 46.39320778846741, 0.6414361032193423, 71.53775787353516]
+4[0.8742621849862144, 48.4368462562561, 0.8413715421719025, 83.15014100074768]
+[0.8461571635028996, 48.07825016975403, 0.8412949528342373, 83.9346010684967]
+[0.6807270587900885, 46.79470086097717, 0.6599268910941987, 74.86096787452698]
+[0.6883738143469199, 44.897780895233154, 0.6647767934203135, 71.58296799659729]
+5[0.8683561603384164, 52.111504793167114, 0.8394377882975457, 84.48389101028442]
+[0.8536708693523883, 50.65577983856201, 0.8214162783895629, 91.3149790763855]
+[0.7081067569434496, 49.774534940719604, 0.6567936019717654, 72.52278518676758]
+[0.6870623864604279, 54.7787389755249, 0.6640404170746784, 76.38559603691101]
+6[0.8516161657691393, 51.32950401306152, 0.8463478202047631, 92.90205097198486]
+[0.8525226736188147, 52.486517906188965, 0.8417355806198892, 88.99407196044922]
+[0.6908616550274188, 46.651371002197266, 0.6445834552513445, 73.39898705482483]
+[0.6981846183263147, 47.24341297149658, 0.6443794174575915, 72.84900903701782]
+
+
+CM-Building
+[0.861896113108268, 902.6444306373596, 0.872403919701833, 85.50813508033752, 0.8989753457618603, 131.36096096038818, 0.8610066427422007, 94.53995490074158]
+True True 4
+[0.8622664509292408, 862.3756392002106, 0.8739653216634912, 73.1213800907135, 0.8961249102114771, 131.21853113174438, 0.8612634042650669, 86.59579420089722]
+False True 4
+[0.8636728332127789, 1033.082675933838, 0.872732402339302, 78.30309510231018, 0.9042193009801317, 139.08438920974731, 0.8635586779616373, 90.15353608131409]
+True False 4
+[0.8616277928667623, 1007.8683898448944, 0.8744718769172517, 67.6689441204071, 0.8999934095229277, 128.80187582969666, 0.8618550913590808, 85.47555422782898]
+False False 4
+
+
+[0.8649813595666334, 836.0637362003326, 0.8759175845990955, 77.62256383895874, 0.9062597460693197, 134.87046813964844, 0.8643282478677773, 84.92657399177551]
+True True 5
+[0.8629461537403397, 928.6029138565063, 0.8746182054375164, 65.11255311965942, 0.9020259012486658, 120.84702610969543, 0.8628501702675534, 77.23831176757812]
+False True 5
+[0.8646402481607051, 884.1346259117126, 0.8712404211446169, 82.44192504882812, 0.8997047243085217, 145.4601058959961, 0.8644103388188971, 93.22326683998108]
+True False 5
+[0.8636501413619053, 1099.2682831287384, 0.8991022254232264, 62.4998939037323, 0.9056829486051361, 115.65252566337585, 0.8636678512268188, 75.62750792503357]
+False False 5
+
+[0.8632615288071771, 966.1060039997101, 0.8727976259006697, 99.40834712982178, 0.8971203026822739, 147.62185287475586, 0.8608018419941448, 89.00813007354736]
+True True 6
+[0.8628895218502156, 857.3228280544281, 0.8735693641389837, 71.46770596504211, 0.9041994698033049, 126.29849195480347, 0.8621992661320274, 82.28130316734314]
+False True 6
+[0.86134126170159, 934.5860950946808, 0.8701907749979075, 75.7814450263977, 0.9019531223576225, 133.30513286590576, 0.8612294048783237, 83.3623559474945]
+True False 6
+[0.8609855737460346, 878.6625800132751, 0.8757688825454292, 64.01384496688843, 0.9049827308380191, 118.21036791801453, 0.8609866485107969, 77.69967889785767]
+False False 6
+
+[0.8635594467424557, 1059.2592689990997, 0.8741634818221009, 60.30794286727905, 0.9030338953709159, 114.5575520992279, 0.863565236978013, 74.2204520702362]
+True True 2
+[0.8645542751002175, 859.4295828342438, 0.8896687482766189, 57.37589907646179, 0.9032118705012221, 110.13458800315857, 0.8629958002247585, 71.7212507724762]
+False True 2
+[0.8612903499887673, 1239.8756170272827, 0.8729973540766152, 57.689146995544434, 0.9016175247963357, 109.7496120929718, 0.8599075857164274, 71.5066750049591]
+True False 2
+[0.7909470288177967, 490.0810799598694, 0.9058281949693174, 65.57796382904053, 0.9060577769273105, 122.08141493797302, 0.7707355206837148, 57.37899708747864]
+False False 2
+
+[0.8628911146859255, 1332.374585866928, 0.8737099302034765, 63.668235778808594, 0.9058102717002362, 111.80848002433777, 0.8613495761537195, 70.03169798851013]
+True True 1
+[0.8631928620192226, 865.7122087478638, 0.8763662960557458, 59.1291069984436, 0.897354624800706, 107.4407651424408, 0.8631928620192226, 70.41668486595154]
+False True 1
+[0.865615399951079, 1037.8139567375183, 0.9002193513561121, 56.66321396827698, 0.9018683018554444, 107.36530494689941, 0.865615399951079, 61.595361948013306]
+True False 1
+[0.7899661496022903, 718.9265940189362, 0.895417919258098, 56.13427376747131, 0.8951951479633453, 105.91888380050659, 0.8052924018740784, 50.41953921318054]
+False False 1
+[0.8652532890991299, 736.6236763000488, 0.8740116222485322, 55.618738889694214, 0.9053529538218159, 105.63258004188538, 0.8622645593236089, 58.529199838638306]
+True True 0
+[0.8638995688650141, 950.2360560894012, 0.8743350830303709, 54.29150915145874, 0.9046307956837059, 105.0008499622345, 0.8631280381581492, 61.70804691314697]
+False True 0
+[0.8060522437084372, 893.5546870231628, 0.8912659005534729, 54.776816844940186, 0.8912659005534729, 105.6533031463623, 0.8050254937343911, 50.013916969299316]
+True False 0
+
+time
+open 6.196839094161987 94.6527030467987
+CMB 12.835572957992554 225.32425117492676
+CMR 14.260778903961182 244.64229083061218
+CMRS 12.577871799468994 225.38355994224548
+PGD 7.739271879196167 96.06562209129333
+PGT 3.239596128463745 34.70282697677612
+                           node                          edge 
+CMB [0.8186209201812744, 0.8259987831115723, 0.8647937774658203, 0.8493928909301758]
+[2.078362226486206, 2.0541062355041504, 2.0691030025482178, 2.0705549716949463]
+[3.186784029006958, 3.2169649600982666, 3.252167224884033, 3.3148081302642822]
+[4.441188812255859, 4.646285057067871, 4.655512094497681, 4.86228084564209]
+[5.7329699993133545, 5.9265971183776855, 6.013777017593384, 6.156518936157227]
+[7.045496702194214, 7.3070971965789795, 7.281564950942993, 7.524349927902222]
+[8.593897104263306, 8.878905296325684, 8.982433080673218, 9.221657752990723]
+
+27.704782009124756 27.00291395187378
+31.90118980407715 30.681780099868774
+27.329636096954346 26.31752586364746
+24.038016080856323 23.62221384048462
+7.749986886978149 7.429898023605347
+12.425333023071289 12.262060165405273
